@@ -19,13 +19,17 @@ a {
   text-decoration: none;
 }
 
+button:hover{
+    color: #000;
+}
+
 body {
   font-family: "Epilogue", sans-serif;
 }
 
 /* header start */
 .header {
-  margin-bottom: 200px;
+  margin-bottom: 130px;
 }
 
 /* navbar start */
@@ -129,7 +133,6 @@ body {
 
 .dropdown-item img {
   margin-right: 10px;
-  font-size: 18px;
 }
 
 /* header end */
